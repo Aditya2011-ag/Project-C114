@@ -6,5 +6,5 @@ canvas{
     animation-name: filter;
     animation-duration: 5s;
     animation-iteration-count: infinite;
-    border: 100px;
+    border: 3px dashed blue;
 }
